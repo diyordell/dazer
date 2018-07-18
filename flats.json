@@ -20,7 +20,7 @@
   {
     "id": 201,
     "name": "Basilica Church",
-    "imageUrl": "https://github.com/diyordell/dazer/tree/master/Images/bahaynabato.jpg",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-o/0a/6b/8f/c2/this-location-is-only.jpg",
     "price": 50,
     "priceCurrency": "PHP",
     "lat": 16.323063,
@@ -29,7 +29,7 @@
   {
     "id": 205,
     "name": "Lomboy Farms",
-    "imageUrl": "https://github.com/diyordell/dazer/tree/master/Images/lomboy.jpg",
+    "imageUrl": "https://2.bp.blogspot.com/-oRs10uSql0k/V_PbrTHqxAI/AAAAAAAAIS8/WmlGNPsrPwson_f7FCMbd0D6VLDgtpfhwCLcB/s1600/grape%2Bplantation1.jpg",
     "price": 100,
     "priceCurrency": "PHP",
     "lat": 16.463370, 
@@ -38,7 +38,7 @@
   {
     "id": 210,
     "name": "Macho Temple",
-    "imageUrl": "https://github.com/diyordell/dazer/tree/master/Images/macho.jpg",
+    "imageUrl": "https://openthedorr.files.wordpress.com/2013/04/taoist-temple.jpg",
     "price": 100,
     "priceCurrency": "PHP",
     "lat": 16.621239,
@@ -46,11 +46,11 @@
   },
   {
     "id": 211,
-    "name": "Bohemian and Chic in Paris",
+    "name": "Dalison's Home",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
-    "price": 90,
-    "priceCurrency": "EUR",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "price": 999999,
+    "priceCurrency": "PHP",
+    "lat": 16.284836,
+    "lng": 120.378359
   }
 ]
