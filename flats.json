@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Tangadan Falls",
     "imageUrl": "https://www.thepinaysolobackpacker.com/wp-content/uploads/2017/03/LA-UNION-TANGADAN-FALLS-5-1-of-12-846x515.jpeg",
-    "price": 600,
+    "price": 10,
     "priceCurrency": "PHP",
     "lat": 16.643596,
     "lng": 120.448789
@@ -12,7 +12,7 @@
     "id": 2,
     "name": "Bahay na Bato",
     "imageUrl": "http://www.tupanggala.com/wp-content/uploads/2017/01/BahaynaBato_02.jpg",
-    "price": 150,
+    "price": 20,
     "priceCurrency": "PHP",
     "lat": 16.847250,
     "lng": 120.351707
@@ -21,7 +21,7 @@
     "id": 3,
     "name": "Basilica Church",
     "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-o/0a/6b/8f/c2/this-location-is-only.jpg",
-    "price": 50,
+    "price": 30,
     "priceCurrency": "PHP",
     "lat": 16.323063,
     "lng": 120.367742
@@ -30,7 +30,7 @@
     "id": 4,
     "name": "Lomboy Farms",
     "imageUrl": "https://2.bp.blogspot.com/-oRs10uSql0k/V_PbrTHqxAI/AAAAAAAAIS8/WmlGNPsrPwson_f7FCMbd0D6VLDgtpfhwCLcB/s1600/grape%2Bplantation1.jpg",
-    "price": 100,
+    "price": 40,
     "priceCurrency": "PHP",
     "lat": 16.463370, 
     "lng": 120.335634
@@ -39,7 +39,7 @@
     "id": 5,
     "name": "Macho Temple",
     "imageUrl": "https://openthedorr.files.wordpress.com/2013/04/taoist-temple.jpg",
-    "price": 200,
+    "price": 50,
     "priceCurrency": "PHP",
     "lat": 16.621239,
     "lng": 120.317496
@@ -48,7 +48,7 @@
     "id": 6,
     "name": "La Union Botanical and Zoological Garden",
     "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/03/b7/17/04/la-union-botanical-garden.jpg",
-    "price": 300,
+    "price": 60,
     "priceCurrency": "PHP",
     "lat": 16.587570,
     "lng": 120.365906
@@ -57,7 +57,7 @@
     "id": 7,
     "name": "Poro Point Lighthouse",
     "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/09/d1/b1/b7/poro-point-lighthouse.jpg",
-    "price": 40,
+    "price": 70,
     "priceCurrency": "PHP",
     "lat": 16.615161,
     "lng": 120.280807
@@ -66,7 +66,7 @@
     "id": 8,
     "name": "Eagle of the North",
     "imageUrl": "https://lh3.googleusercontent.com/-trxHSbn1EnM/V3II1JGO7AI/AAAAAAAAC0s/Z6pmTs0Dc58/s640/blogger-image--554213826.jpg",
-    "price": 00,
+    "price": 80,
     "priceCurrency": "PHP",
     "lat": 16.330128,
     "lng": 120.368127
@@ -84,7 +84,7 @@
     "id": 10,
     "name": "Paradiso Beach Resort",
     "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOLKuYruIzmW732s3NGmw3aG3z67Ak54RiH-U6v=s1600-w400",
-    "price": 550,
+    "price": 90,
     "priceCurrency": "PHP",
     "lat": 16.396831,
     "lng": 120.327048
@@ -102,7 +102,7 @@
     "id": 12,
     "name": "Pugad Adventure Resort",
     "imageUrl": "http://www.swimandpools.com/wp-content/uploads/2012/09/pugadresort_web.jpg",
-    "price": 200,
+    "price": 100,
     "priceCurrency": "PHP",
     "lat": 16.337046,
     "lng": 120.478805
