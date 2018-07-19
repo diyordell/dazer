@@ -112,7 +112,7 @@
     "id": 13,
     "name": "Dalison's Home",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
-    "price": 9999,
+    "price": 999,
     "priceCurrency": "PHP",
     "lat": 16.284836,
     "lng": 120.378359
