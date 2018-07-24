@@ -52,5 +52,104 @@
     "priceCurrency": "PHP",
     "lat": 16.615958, 
     "lng": 120.331006
-  }
+  },
+  {
+    "id": 7,
+    "name": "Lim's Gas Shell Station",
+    "imageUrl": "https://seeklogo.com/images/S/shell-logo-25F8B6686F-seeklogo.com.png",
+    "price": 70,
+    "priceCurrency": "PHP",
+    "lat": 16.635349,
+    "lng":  120.312736
+  },
+  {
+    "id": 8,
+    "name": "Shell Gas Station",
+    "imageUrl": "https://seeklogo.com/images/S/shell-logo-25F8B6686F-seeklogo.com.png",
+    "price": 70,
+    "priceCurrency": "PHP",
+    "lat": 16.586785, 
+    "lng": 120.320151
+  },
+  {
+    "id": 9,
+    "name": "Shell Gas Station",
+    "imageUrl": "https://seeklogo.com/images/S/shell-logo-25F8B6686F-seeklogo.com.png",
+    "price": 70,
+    "priceCurrency": "PHP",
+    "lat": 16.603317, 
+    "lng": 120.319488
+  },
+  {
+    "id": 10,
+    "name": "Rudy Shell Station",
+    "imageUrl": "https://seeklogo.com/images/S/shell-logo-25F8B6686F-seeklogo.com.png",
+    "price": 70,
+    "priceCurrency": "PHP",
+    "lat": 16.602870,
+    "lng": 120.318289
+  },
+  {
+    "id": 11,
+    "name": "Fero - Petron Gasoline Station",
+    "imageUrl": "https://seeklogo.com/images/S/shell-logo-25F8B6686F-seeklogo.com.png",
+    "price": 70,
+    "priceCurrency": "PHP",
+    "lat": 16.635059, 
+    "lng": 120.312867
+  },
+  {
+    "id": 12,
+    "name": "Fero - Petron Gasoline Station",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
+    "price": 70,
+    "priceCurrency": "PHP",
+    "lat": 16.635059, 
+    "lng": 120.312867
+  },
+  {
+    "id": 13,
+    "name": "Fero - Petron Gasoline Station",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
+    "price": 70,
+    "priceCurrency": "PHP",
+    "lat": 16.635059, 
+    "lng": 120.312867
+  },
+  {
+    "id": 14,
+    "name": "Fero - Petron Gasoline Station",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
+    "price": 70,
+    "priceCurrency": "PHP",
+    "lat": 16.635059, 
+    "lng": 120.312867
+  },
+  {
+    "id": 15,
+    "name": "Fero - Petron Gasoline Station",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
+    "price": 70,
+    "priceCurrency": "PHP",
+    "lat": 16.635059, 
+    "lng": 120.312867
+  },
+  {
+    "id": 16,
+    "name": "Fero - Petron Gasoline Station",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
+    "price": 70,
+    "priceCurrency": "PHP",
+    "lat": 16.635059, 
+    "lng": 120.312867
+  },
+  {
+    "id": 17,
+    "name": "Fero - Petron Gasoline Station",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
+    "price": 70,
+    "priceCurrency": "PHP",
+    "lat": 16.635059, 
+    "lng": 120.312867
+  },
 ]
