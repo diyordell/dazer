@@ -109,47 +109,47 @@
   },
   {
     "id": 13,
-    "name": "Fero - Petron Gasoline Station",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
+    "name": "Total (Biday 1)",
+    "imageUrl": "https://cdn.freebiesupply.com/logos/large/2x/total-3-logo-png-transparent.png",
     "price": 130,
     "priceCurrency": "PHP",
-    "lat": 16.635059, 
-    "lng": 120.312867
+    "lat": 16.628879,
+    "lng": 120.324347
   },
   {
     "id": 14,
-    "name": "Fero - Petron Gasoline Station",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
+    "name": "Total (Biday 2)",
+    "imageUrl": "https://cdn.freebiesupply.com/logos/large/2x/total-3-logo-png-transparent.png",
     "price": 140,
     "priceCurrency": "PHP",
-    "lat": 16.635059, 
-    "lng": 120.312867
+    "lat": 16.636241, 
+    "lng": 120.331281
   },
   {
     "id": 15,
-    "name": "Fero - Petron Gasoline Station",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
+    "name": "Flomar Gas Station",
+    "imageUrl": "http://www.clker.com/cliparts/2/9/1/3/12073140411168771264gas%20station%20black.svg.med.png",
     "price": 150,
     "priceCurrency": "PHP",
-    "lat": 16.635059, 
-    "lng": 120.312867
+    "lat": 16.598793, 
+    "lng": 120.313277
   },
   {
     "id": 16,
-    "name": "Fero - Petron Gasoline Station",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
+    "name": "Catbangen SFC Gas Station",
+    "imageUrl": "http://www.clker.com/cliparts/2/9/1/3/12073140411168771264gas%20station%20black.svg.med.png",
     "price": 160,
     "priceCurrency": "PHP",
-    "lat": 16.635059, 
-    "lng": 120.312867
+    "lat": 16.609220, 
+    "lng": 120.310257
   },
   {
     "id": 17,
-    "name": "Fero - Petron Gasoline Station",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
+    "name": "ELG Gas Station",
+    "imageUrl": "http://www.clker.com/cliparts/2/9/1/3/12073140411168771264gas%20station%20black.svg.med.png",
     "price": 180,
     "priceCurrency": "PHP",
-    "lat": 16.635059, 
-    "lng": 120.312867
+    "lat": 16.627693, 
+    "lng": 120.323873
   }
 ]
