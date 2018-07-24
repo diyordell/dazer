@@ -71,7 +71,7 @@
   },
   {
     "id": 8,
-    "name": "Shell Gas Station 2",
+    "name": "Shell Gas Station 1",
     "address": "MacArthur Hwy, San Fernando, La Union",
     "imageUrl": "https://seeklogo.com/images/S/shell-logo-25F8B6686F-seeklogo.com.png",
     "price": 80,
@@ -81,7 +81,7 @@
   },
   {
     "id": 9,
-    "name": "Shell Gas Station 1",
+    "name": "Shell Gas Station 2",
     "address": "San Fernando By-Pass Rd, San Fernando, 2500 La Union",
     "imageUrl": "https://seeklogo.com/images/S/shell-logo-25F8B6686F-seeklogo.com.png",
     "price": 90,
