@@ -54,7 +54,7 @@
     "name": "Petron",
     "address": "F. Ortega Hwy, San Fernando, La Union",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
-    "price": 50,
+    "price": 60,
     "priceCurrency": "PHP",
     "lat": 16.615958, 
     "lng": 120.331006
