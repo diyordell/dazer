@@ -91,21 +91,21 @@
   },
   {
     "id": 11,
-    "name": "Fero - Petron Gasoline Station",
-    "imageUrl": "https://seeklogo.com/images/S/shell-logo-25F8B6686F-seeklogo.com.png",
+    "name": "Caltex",
+    "imageUrl": "https://seeklogo.com/images/C/caltex-logo-AA6101945D-seeklogo.com.png",
     "price": 70,
     "priceCurrency": "PHP",
-    "lat": 16.635059, 
-    "lng": 120.312867
+    "lat": 16.594036, 
+    "lng": 120.318856
   },
   {
     "id": 12,
-    "name": "Fero - Petron Gasoline Station",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
+    "name": "Caltex Gas Station",
+    "imageUrl": "https://seeklogo.com/images/C/caltex-logo-AA6101945D-seeklogo.com.png",
     "price": 70,
     "priceCurrency": "PHP",
-    "lat": 16.635059, 
-    "lng": 120.312867
+    "lat": 16.620181, 
+    "lng": 120.316530
   },
   {
     "id": 13,
@@ -151,5 +151,5 @@
     "priceCurrency": "PHP",
     "lat": 16.635059, 
     "lng": 120.312867
-  },
+  }
 ]
