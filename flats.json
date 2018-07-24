@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "name": "Tangadan Falls",
-    "imageUrl": "https://www.thepinaysolobackpacker.com/wp-content/uploads/2017/03/LA-UNION-TANGADAN-FALLS-5-1-of-12-846x515.jpeg",
-    "price": 10,
+    "name": "Petron - Northway Plaza",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
+    "price": 40,
     "priceCurrency": "PHP",
-    "lat": 16.643596,
-    "lng": 120.448789
+    "lat": 16.601879,
+    "lng": 120.318459
   },
   {
     "id": 2,
