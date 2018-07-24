@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Petron - Northway Plaza",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
-    "price": 30,
+    "price": 10,
     "priceCurrency": "PHP",
     "lat": 16.601879,
     "lng": 120.318459
@@ -12,7 +12,7 @@
     "id": 2,
     "name": "Centennial Petron Station",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
-    "price": 40,
+    "price": 20,
     "priceCurrency": "PHP",
     "lat": 16.601815, 
     "lng": 120.317996
@@ -21,7 +21,7 @@
     "id": 3,
     "name": "Petron Gas Station",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
-    "price": 50,
+    "price": 30,
     "priceCurrency": "PHP",
     "lat": 16.611470, 
     "lng": 120.311494
@@ -30,7 +30,7 @@
     "id": 4,
     "name": "Gualberto Petron Gas Station",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
-    "price": 60,
+    "price": 40,
     "priceCurrency": "PHP",
     "lat": 16.615062, 
     "lng": 120.320531
@@ -39,7 +39,7 @@
     "id": 5,
     "name": "Fero - Petron Gasoline Station",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
-    "price": 70,
+    "price": 50,
     "priceCurrency": "PHP",
     "lat": 16.635059, 
     "lng": 120.312867
@@ -48,7 +48,7 @@
     "id": 6,
     "name": "Petron",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
-    "price": 80,
+    "price": 60,
     "priceCurrency": "PHP",
     "lat": 16.615958, 
     "lng": 120.331006
@@ -66,7 +66,7 @@
     "id": 8,
     "name": "Shell Gas Station",
     "imageUrl": "https://seeklogo.com/images/S/shell-logo-25F8B6686F-seeklogo.com.png",
-    "price": 70,
+    "price": 80,
     "priceCurrency": "PHP",
     "lat": 16.586785, 
     "lng": 120.320151
@@ -75,7 +75,7 @@
     "id": 9,
     "name": "Shell Gas Station",
     "imageUrl": "https://seeklogo.com/images/S/shell-logo-25F8B6686F-seeklogo.com.png",
-    "price": 70,
+    "price": 90,
     "priceCurrency": "PHP",
     "lat": 16.603317, 
     "lng": 120.319488
@@ -84,7 +84,7 @@
     "id": 10,
     "name": "Rudy Shell Station",
     "imageUrl": "https://seeklogo.com/images/S/shell-logo-25F8B6686F-seeklogo.com.png",
-    "price": 70,
+    "price": 100,
     "priceCurrency": "PHP",
     "lat": 16.602870,
     "lng": 120.318289
@@ -93,7 +93,7 @@
     "id": 11,
     "name": "Caltex",
     "imageUrl": "https://seeklogo.com/images/C/caltex-logo-AA6101945D-seeklogo.com.png",
-    "price": 70,
+    "price": 110,
     "priceCurrency": "PHP",
     "lat": 16.594036, 
     "lng": 120.318856
@@ -102,7 +102,7 @@
     "id": 12,
     "name": "Caltex Gas Station",
     "imageUrl": "https://seeklogo.com/images/C/caltex-logo-AA6101945D-seeklogo.com.png",
-    "price": 70,
+    "price": 120,
     "priceCurrency": "PHP",
     "lat": 16.620181, 
     "lng": 120.316530
@@ -111,7 +111,7 @@
     "id": 13,
     "name": "Fero - Petron Gasoline Station",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
-    "price": 70,
+    "price": 130,
     "priceCurrency": "PHP",
     "lat": 16.635059, 
     "lng": 120.312867
@@ -120,7 +120,7 @@
     "id": 14,
     "name": "Fero - Petron Gasoline Station",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
-    "price": 70,
+    "price": 140,
     "priceCurrency": "PHP",
     "lat": 16.635059, 
     "lng": 120.312867
@@ -129,7 +129,7 @@
     "id": 15,
     "name": "Fero - Petron Gasoline Station",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
-    "price": 70,
+    "price": 150,
     "priceCurrency": "PHP",
     "lat": 16.635059, 
     "lng": 120.312867
@@ -138,7 +138,7 @@
     "id": 16,
     "name": "Fero - Petron Gasoline Station",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
-    "price": 70,
+    "price": 160,
     "priceCurrency": "PHP",
     "lat": 16.635059, 
     "lng": 120.312867
@@ -147,7 +147,7 @@
     "id": 17,
     "name": "Fero - Petron Gasoline Station",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
-    "price": 70,
+    "price": 170,
     "priceCurrency": "PHP",
     "lat": 16.635059, 
     "lng": 120.312867
