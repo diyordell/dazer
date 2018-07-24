@@ -48,7 +48,7 @@
     "id": 6,
     "name": "Petron",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
-    "price": 60,
+    "price": 70,
     "priceCurrency": "PHP",
     "lat": 16.615958, 
     "lng": 120.331006
