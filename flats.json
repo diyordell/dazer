@@ -30,7 +30,7 @@
     "id": 4,
     "name": "Gualberto Petron Gas Station",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
-    "price": 30,
+    "price": 50,
     "priceCurrency": "PHP",
     "lat": 16.615062, 
     "lng": 120.320531
