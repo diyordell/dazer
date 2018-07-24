@@ -2,7 +2,6 @@
   {
     "id": 1,
     "name": "Petron - Northway Plaza",
-    "address": "MacArthur Highway, San Fernando, La Union",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
     "price": 00,
     "priceCurrency": "PHP",
@@ -12,7 +11,6 @@
   {
     "id": 2,
     "name": "Centennial Petron Station",
-    "address": "MacArthur Highway, San Fernando, 2500 La Union",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
     "price": 10,
     "priceCurrency": "PHP",
@@ -22,7 +20,6 @@
   {
     "id": 3,
     "name": "Petron Gas Station",
-    "address": "Don Flores St, San Fernando, La Union",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
     "price": 20,
     "priceCurrency": "PHP",
@@ -32,7 +29,6 @@
   {
     "id": 4,
     "name": "Gualberto Petron Gas Station",
-    "address": "San Fernando By-Pass Rd, San Fernando, La Union",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
     "price": 30,
     "priceCurrency": "PHP",
@@ -42,7 +38,6 @@
   {
     "id": 5,
     "name": "Fero - Petron Gasoline Station",
-    "address": "National highway, San Fernando, 2500 La Union",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
     "price": 40,
     "priceCurrency": "PHP",
@@ -52,7 +47,6 @@
   {
     "id": 6,
     "name": "Petron",
-    "address": "F. Ortega Hwy, San Fernando, La Union",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
     "price": 60,
     "priceCurrency": "PHP",
