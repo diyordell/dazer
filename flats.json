@@ -1,119 +1,172 @@
 [
   {
     "id": 1,
-    "name": "My Home",
-    "address": "Santo Tomas, La Union",
-    "imageUrl": "https://t4.ftcdn.net/jpg/00/69/96/11/240_F_69961166_bhTRCQU222My3R4kCe9j0tEV6KrCos7G.jpg",
-    "distance": 0,
-    "lat": 16.284809, 
-    "lng": 120.378361
+    "name": "Petron - Northway Plaza",
+    "address": "MacArthur Highway, San Fernando, La Union",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
+    "price": 10,
+    "priceCurrency": "PHP",
+    "lat": 16.601879,
+    "lng": 120.318459
   },
   {
     "id": 2,
-    "name": "San Juan Surf Resort",
-    "address": "Urbiztondo, San Juan, MacArthur Highway, San Fernando, La Union",
-    "imageUrl": "https://i.ytimg.com/vi/EeXY-0DTsmg/maxresdefault.jpg",
-    "distance": 45.2,
-    "lat": 16.657105, 
-    "lng": 120.320194
+    "name": "Centennial Petron Station",
+    "address": "MacArthur Highway, San Fernando, 2500 La Union",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
+    "price": 20,
+    "priceCurrency": "PHP",
+    "lat": 16.601815, 
+    "lng": 120.317996
   },
   {
     "id": 3,
-    "name": "Huma Island Resort",
-    "address": "Diciligan Island, Busuanga, Palawan",
-    "imageUrl": "https://i.ytimg.com/vi/j515Yq5J0UI/maxresdefault.jpg",
-    "distance": 719,
-    "lat": 12.053734, 
-    "lng": 119.902306
+    "name": "Petron Gas Station",
+    "address": "Don Flores St, San Fernando, La Union",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
+    "price": 30,
+    "priceCurrency": "PHP",
+    "lat": 16.611470, 
+    "lng": 120.311494
   },
   {
     "id": 4,
-    "name": "SkyRanch Tagaytay",
-    "address": "Sky Ranch, Tagaytay-Nasugbu Highway, Kaybagal South, Tagaytay, 4120 Cavite",
-    "imageUrl": "http://1.bp.blogspot.com/-c0rkgGgXn_0/Vck5flIw2VI/AAAAAAAAaOE/KJzRvfEQor8/s1600/skyranch_tagaytay_amusement_park.jpg",
-    "distance": 307,
-    "lat": 14.095308, 
-    "lng": 120.937560
+    "name": "Gualberto Petron Gas Station",
+    "address": "San Fernando By-Pass Rd, San Fernando, La Union",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
+    "price": 40,
+    "priceCurrency": "PHP",
+    "lat": 16.615062, 
+    "lng": 120.320531
   },
   {
     "id": 5,
-    "name": "Tukon Church",
-    "address": "Basco, Batanes",
-    "imageUrl": "http://media3.trover.com/T/58633d6b74a3512743072cef/fixedw_large_4x.jpg",
-    "distance": 490,
-    "lat": 20.429838, 
-    "lng": 121.970794
+    "name": "Fero - Petron Gasoline Station",
+    "address": "F. Ortega Hwy, San Fernando, La Union",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
+    "price": 50,
+    "priceCurrency": "PHP",
+    "lat": 16.635059, 
+    "lng": 120.312867
   },
   {
     "id": 6,
-    "name": "Isla de Potipot Hotel and Beach Resort",
-    "address": "Isla de Potipot, Candelaria, Zambales",
-    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0f/d5/6c/2c/isla-de-potipot-welcome.jpg",
-    "distance": 158,
-    "lat": 15.660996, 
-    "lng": 119.929575
+    "name": "Petron",
+    "address": "National highway, San Fernando, 2500 La Union",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_of_Petron.svg/2000px-Logo_of_Petron.svg.png",
+    "price": 60,
+    "priceCurrency": "PHP",
+    "lat": 16.615958, 
+    "lng": 120.331006
   },
   {
     "id": 7,
-    "name": "Mayon Skyline View Deck",
-    "address": "Tabaco City, Albay",
-    "imageUrl": "https://i0.wp.com/www.aneking.com/wp-content/uploads/2016/10/IMG_6975.jpg",
-    "distance": 724,
-    "lat": 13.284613, 
-    "lng": 123.671241
+    "name": "Lim's Gas Shell Station",
+    "address": "San Fernando, La Union",
+    "imageUrl": "https://seeklogo.com/images/S/shell-logo-25F8B6686F-seeklogo.com.png",
+    "price": 70,
+    "priceCurrency": "PHP",
+    "lat": 16.635349,
+    "lng":  120.312736
   },
   {
     "id": 8,
-    "name": "Corregidor Island",
-    "address": "Cavite City, Cavite",
-    "imageUrl": "https://thumbnails.trvl-media.com/b-6YyclQjWjk27XmN6-cE5kbaH4=/a.travel-assets.com/mediavault.le/media/6d3d78c31dbb923ccd933b3d4ff8ee0c4de925f6.jpeg",
-    "distance": 211,
-    "lat": 14.385150, 
-    "lng": 120.580429
+    "name": "Shell Gas Station 1",
+    "address": "MacArthur Hwy, San Fernando, La Union",
+    "imageUrl": "https://seeklogo.com/images/S/shell-logo-25F8B6686F-seeklogo.com.png",
+    "price": 80,
+    "priceCurrency": "PHP",
+    "lat": 16.586785, 
+    "lng": 120.320151
   },
   {
     "id": 9,
-    "name": "Vigan Heritage Mansion",
-    "address": "Liberation Blvd, Vigan City, Ilocos Sur",
-    "imageUrl": "https://outoftownblog.com/wp-content/uploads/2014/06/Our-Yellow-Chevrolet-Spark-in-front-of-Vigan-Heritage-Mansion.jpg",
-    "distance": 176,
-    "lat": 17.570132, 
-    "lng": 120.388283
+    "name": "Shell Gas Station 2",
+    "address": "San Fernando By-Pass Rd, San Fernando, 2500 La Union",
+    "imageUrl": "https://seeklogo.com/images/S/shell-logo-25F8B6686F-seeklogo.com.png",
+    "price": 90,
+    "priceCurrency": "PHP",
+    "lat": 16.603317, 
+    "lng": 120.319488
   },
   {
     "id": 10,
-    "name": "Batad Rice Terraces Highland Inn and Restaurant",
-    "address": "Banaue, Ifugao",
-    "imageUrl": "https://images.huffingtonpost.com/2013-07-29-DSC_0159.JPG",
-    "distance": 381,
-    "lat": 16.932498, 
-    "lng": 121.134451
+    "name": "Rudy Shell Station",
+    "address": "MacArthur Highway, San Fernando, La Union",
+    "imageUrl": "https://seeklogo.com/images/S/shell-logo-25F8B6686F-seeklogo.com.png",
+    "price": 100,
+    "priceCurrency": "PHP",
+    "lat": 16.602870,
+    "lng": 120.318289
   },
   {
     "id": 11,
-    "name": "Subic Beach Resort",
-    "address": "Calapacuan, Subic, Calapandayan, Subic, Zambales",
-    "imageUrl": "https://d1k571r5p7i4n1.cloudfront.net/ffdfd56e853be9e6dcd42a253f1b3124/large/best_beach_resorts_in_Subic_Zambales_Camayan_Beach.jpg",
-    "distance": 219,
-    "lat": 14.863268, 
-    "lng": 120.234824
+    "name": "Caltex",
+    "address": "MacArthur Highway, San Fernando, La Union",
+    "imageUrl": "https://seeklogo.com/images/C/caltex-logo-AA6101945D-seeklogo.com.png",
+    "price": 110,
+    "priceCurrency": "PHP",
+    "lat": 16.594036, 
+    "lng": 120.318856
   },
   {
     "id": 12,
-    "name": "Hidden Valley Springs",
-    "address": "Calauan, Laguna",
-    "imageUrl": "http://www.shore2shore-travel-services.com/uploads/3/3/2/9/3329056/3034329_orig.jpg",
-    "distance": 316,
-    "lat": 14.097593, 
-    "lng": 121.258096
+    "name": "Caltex Gas Station",
+    "address": "682 Quezon Ave, San Fernando, 2500 La Union",
+    "imageUrl": "https://seeklogo.com/images/C/caltex-logo-AA6101945D-seeklogo.com.png",
+    "price": 120,
+    "priceCurrency": "PHP",
+    "lat": 16.620181, 
+    "lng": 120.316530
   },
   {
     "id": 13,
-    "name": "Ark Avilon Zoo",
-    "address": "Fun Ranch Frontera Verde, E. Rodriguez Jr. Ave., Pasig, Metro Manila",
-    "imageUrl": "http://www.manilatourpackage.com/images/2014/02/ark-avilon-zoo-manila.jpg",
-    "distance": 236,
-    "lat": 14.588310, 
-    "lng": 121.078298
+    "name": "Total (Biday 1)",
+    "address": "ELG Compound, Pagdaraoan-Biday Rd., Biday, San Fernando, 2500 La Union",
+    "imageUrl": "https://cdn.freebiesupply.com/logos/large/2x/total-3-logo-png-transparent.png",
+    "price": 130,
+    "priceCurrency": "PHP",
+    "lat": 16.628879,
+    "lng": 120.324347
+  },
+  {
+    "id": 14,
+    "name": "Total (Biday 2)",
+    "address": "San Fernando By-Pass Rd., Biday, San Fernando, 2500 La Union",
+    "imageUrl": "https://cdn.freebiesupply.com/logos/large/2x/total-3-logo-png-transparent.png",
+    "price": 140,
+    "priceCurrency": "PHP",
+    "lat": 16.636241, 
+    "lng": 120.331281
+  },
+  {
+    "id": 15,
+    "name": "Flomar Gas Station",
+    "address": "San Fernando, La Union",
+    "imageUrl": "http://www.clker.com/cliparts/2/9/1/3/12073140411168771264gas%20station%20black.svg.med.png",
+    "price": 150,
+    "priceCurrency": "PHP",
+    "lat": 16.598793, 
+    "lng": 120.313277
+  },
+  {
+    "id": 16,
+    "name": "Catbangen SFC Gas Station",
+    "address": "Mabini St, San Fernando, La Union",
+    "imageUrl": "http://www.clker.com/cliparts/2/9/1/3/12073140411168771264gas%20station%20black.svg.med.png",
+    "price": 160,
+    "priceCurrency": "PHP",
+    "lat": 16.609220, 
+    "lng": 120.310257
+  },
+  {
+    "id": 17,
+    "name": "ELG Gas Station",
+    "address": "Pagdaraoan Biday Road, San Fernando, La Union",
+    "imageUrl": "http://www.clker.com/cliparts/2/9/1/3/12073140411168771264gas%20station%20black.svg.med.png",
+    "price": 180,
+    "priceCurrency": "PHP",
+    "lat": 16.627693, 
+    "lng": 120.323873
   }
 ]
